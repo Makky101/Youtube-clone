@@ -1,2 +1,2 @@
 # Youtube-clone
-more like a rip-off
+My own yotube-version!
