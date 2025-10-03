@@ -1,6 +1,6 @@
-export const videos = [{
+export const sources = [{
     url: 'https://youtube.com/embed/4vKy2RGd0e4',
-    channelPicture: 'Interface/channel-pictures/folder.png',
+    channelPicture: '/folder.png',
     videoInfo: {
         title: 'The Hacker Who Built a Ransomware Empire',
         youtuber: 'Blackfiles',
@@ -8,7 +8,7 @@ export const videos = [{
     }
 }, {
     url: 'https://youtube.com/embed/Txk34bV9yRE',
-    channelPicture: 'Interface/channel-pictures/girl.png',
+    channelPicture: '/girl.png',
     videoInfo: {
         title: 'INTERVIEWING WATERLOO CS GRADS | graduation vlog🎓',
         youtuber: 'cathliveslife',
@@ -16,7 +16,7 @@ export const videos = [{
     }
     }, {
     url: 'https://youtube.com/embed/Zjl2vmy02As',
-    channelPicture: 'Interface/channel-pictures/boy.png',
+    channelPicture: '/boy.png',
     videoInfo: {
         title: 'A Day in the Life of a Software Engineer... WFH',
         youtuber: 'PIRATE KING',
@@ -24,7 +24,7 @@ export const videos = [{
     }
     }, {
     url: 'https://youtube.com/embed/13p2d-49wz8',
-    channelPicture: 'Interface/channel-pictures/professor.png',
+    channelPicture: '/professor.png',
     videoInfo: {
         title: 'Democrats TERRIFIED As 1 Million+ FLOODLondon to Mourn Charlie Kirk',
         youtuber: 'StateOfDaniel',
@@ -32,7 +32,7 @@ export const videos = [{
     }
     }, {
     url: 'https://youtube.com/embed/E0mZ2R2GBl4',
-    channelPicture: 'Interface/channel-pictures/alpha.png',
+    channelPicture: '/alpha.png',
     videoInfo: {
         title: 'From Game Addict to Successful',
         youtuber: 'Low Budget Stories',
@@ -40,7 +40,7 @@ export const videos = [{
     }
     }, {
     url: 'https://youtube.com/embed/nruN-sJXJxo',
-    channelPicture: 'Interface/channel-pictures/sigma.png',
+    channelPicture: '/sigma.png',
     videoInfo: {
         title: 'College Majors be like...',
         youtuber: 'The Crusader',
@@ -48,7 +48,7 @@ export const videos = [{
     }
     }, {
     url: 'https://youtube.com/embed/uHt01D6rOLI',
-    channelPicture: 'Interface/channel-pictures/joma.png',
+    channelPicture: '/joma.png',
     videoInfo: {
         title: 'If American Psycho were about Programmers',
         youtuber: 'Joma Tech',
@@ -56,7 +56,7 @@ export const videos = [{
     }
     }, {
     url: 'https://youtube.com/embed/n0VG8lj6hd4',
-    channelPicture: 'Interface/channel-pictures/sarah-wu.png',
+    channelPicture: '/sarah-wu.png',
     videoInfo: {
         title: 'unemployed at 24 | life 2 years after MIT',
         youtuber: 'Sarah Wu',
@@ -64,7 +64,7 @@ export const videos = [{
     }
     }, {
     url: 'https://youtube.com/embed/gCpR4ODSE6s',
-    channelPicture: 'Interface/channel-pictures/christmas.png',
+    channelPicture: '/christmas.png',
     videoInfo: {
         title: 'IanOnYouTube',
         youtuber: 'Day in the life working a dead end retail job at 30',
@@ -72,7 +72,7 @@ export const videos = [{
     }
     }, {
     url: 'https://youtube.com/embed/yFbrK_sRV9Q',
-    channelPicture: 'Interface/channel-pictures/x.png',
+    channelPicture: '/x.png',
     videoInfo: {
         title: 'Elon\'s SpaceX Tour - Offices',
         youtuber: 'SpaceX',
@@ -80,7 +80,7 @@ export const videos = [{
     }
     }, {
         url: 'https://youtube.com/embed/Cr9B6yyLZSk',
-        channelPicture: 'Interface/channel-pictures/mrwhoistheboss.png',
+        channelPicture: '/mrwhoistheboss.png',
         videoInfo: {
             title: 'iPhone 17/Air/Pro Hands on - Everything’s changed',
             youtuber: 'Mrwhosetheboss',

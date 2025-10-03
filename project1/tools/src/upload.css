@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-    height: 83px;
+    height: auto;
     background-color: #FAF0E6;
     color: black;
     display: flex;
